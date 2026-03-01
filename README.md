@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Arjav%20Jain&fontSize=70&fontAlignY=38&desc=Fullstack%20|%20MERN%20|%20Flutter%20Developer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Arjav%20Jain&fontSize=70&fontAlignY=38&desc=Fullstack%20|%20Automation%20|%20AI%20Agents&descAlignY=60" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer;MERN+Stack+Enthusiast;Flutter+App+Developer;Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer;Automation+Engineer;AI+Agents+Creator;Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 
   <br />
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working on exciting **Fullstack and Flutter** projects.
-* 🌱 I’m currently learning more about **Scalable System Architecture and Cloud Technologies**.
-* 👯 I’m looking to collaborate on **Open Source MERN and Flutter apps**.
-* 💬 Ask me about **React, Node.js, MongoDB, Flutter, and Dart**.
+* 🔭 I’m currently working on exciting **Fullstack, Automation, and AI Agent** projects.
+* 🌱 I’m currently learning more about **LLMs, Multi-Agent Systems, and Advanced Workflows**.
+* 👯 I’m looking to collaborate on **Open Source AI Tools and Automation Scripts**.
+* 💬 Ask me about **Python, AI Agents, Node.js, React, and Automation**.
 * 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/arjavjain5203)**
 
 ---
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,angular,bootstrap,c,cpp,css,dart,docker,express,firebase,flutter,git,html,js,linux,mongodb,mysql,nodejs,php,python,react,ts,vue" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,docker,linux,git,bash,aws,gcp" />
   </a>
 </p>
 
